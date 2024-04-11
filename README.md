@@ -1,22 +1,19 @@
-# NM_FRIDAYBATCH_FSWD_PROJECT
+# NM_HARIAKSHANA_FSWD_PROJECT
 
 
-Project implemented by: 
+Name: Hari Akshana A
 
 
-Name:
+ID:au960221243021
 
 
-ID:
+College name:Arunachala College Of Engineering For Women
 
 
-College name:
 
 
-Login credentials: 
-
-username: root
+username: student
 
 
-Password: root
+Password: 12345
 
